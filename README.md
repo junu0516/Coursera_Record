@@ -1,4 +1,8 @@
-# 코세라 수업에서 연습한 코드 저장   
+# 코세라 수업에서 배운 개념 정리 연습한 코드 저장  
+## Object Oriented Programming in Java   
+* 배운 개념 : 클래스와 인스턴스 개념, 다형성, 추상형과 인터페이스, PApplet과 이벤트처리, etc ... 
+* [수업 수료증 보기](https://www.coursera.org/account/accomplishments/specialization/certificate/JJ4NGXGYQFH3)   
+
 ## Data Structure and Performance   
 이진검색트리, 트라이, 너비우선탐색 구현 연습한 코드 저장   
 * Trie : [트라이 구현 연습](https://github.com/junu0516/Data_Structure/tree/main/Trie)   

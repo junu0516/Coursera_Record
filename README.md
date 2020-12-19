@@ -1,6 +1,7 @@
 # 코세라에서 학습한 개념 키워드 정리 및 연습한 코드 저장  
 ## 1. Object Oriented Programming in Java   
-* 배운 개념 : 클래스와 인스턴스 개념, 다형성, 추상형과 인터페이스, PApplet과 이벤트처리, etc ... 
+* 배운 개념 : 클래스와 인스턴스 개념, 다형성, 추상형과 인터페이스, PApplet과 이벤트처리, etc ...   
+* 자세한 내용은 [여기](https://junu0516.tistory.com/category/Java/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)를 참고하자
 * [수업 수료증 보기](https://www.coursera.org/account/accomplishments/specialization/certificate/JJ4NGXGYQFH3)   
 
 ## 2. Data Structure and Performance   

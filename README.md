@@ -9,9 +9,9 @@
 * [수업 수료증 보기](https://coursera.org/share/ad6db25ad39883107bf03b78263a8629)   
 
 #### 이진검색트리, 트라이, 너비우선탐색 구현 연습한 코드 저장   
-* Trie : [트라이 구현 연습](https://github.com/junu0516/Data_Structure/tree/main/Trie)   
-* BST : [이진검색트리 구현 연습](https://github.com/junu0516/-Coursera-Data_Structure/tree/main/BinarySearchTree)   
-* BFS : [너비 우선 탐색 구현 연습](https://github.com/junu0516/-Coursera-Data_Structure/blob/main/BreadthFirstSearch/Structure.java)   
+* Trie : [트라이 구현 연습](https://github.com/junu0516/Data_Structure/tree/main/Trie), 자세한 설명은 [여기](https://junu0516.tistory.com/28?category=919148) 참고   
+* BST : [이진검색트리 구현 연습](https://github.com/junu0516/-Coursera-Data_Structure/tree/main/BinarySearchTree), 자세한 설명은 [여기](https://junu0516.tistory.com/22?category=919148) 참고   
+* BFS : [너비 우선 탐색 구현 연습](https://github.com/junu0516/-Coursera-Data_Structure/blob/main/BreadthFirstSearch/Structure.java), 자세한 설명은 [여기](https://junu0516.tistory.com/26?category=919148) 참고    
 
    
 ## 3. Advanced Data Structure   

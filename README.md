@@ -7,7 +7,7 @@
 * 배운 개념 : LinkedList, HashMap, 시간복잡도, 정렬(삽입정렬,선택정렬,병합정렬), 탐색(선형탐색, 이분탐색), 시간복잡도, 트리와 이진검색트리, 트라이, 너비우선탐색   
 * [수업 수료증 보기](https://coursera.org/share/ad6db25ad39883107bf03b78263a8629)   
 
-이진검색트리, 트라이, 너비우선탐색 구현 연습한 코드 저장   
+####이진검색트리, 트라이, 너비우선탐색 구현 연습한 코드 저장   
 * Trie : [트라이 구현 연습](https://github.com/junu0516/Data_Structure/tree/main/Trie)   
 * BST : [이진검색트리 구현 연습](https://github.com/junu0516/-Coursera-Data_Structure/tree/main/BinarySearchTree)   
 * BFS : [너비 우선 탐색 구현 연습](https://github.com/junu0516/-Coursera-Data_Structure/blob/main/BreadthFirstSearch/Structure.java)   

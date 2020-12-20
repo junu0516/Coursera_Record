@@ -10,7 +10,7 @@
     - [시간복잡도](https://junu0516.tistory.com/17?category=919148)   
     - [정렬](https://junu0516.tistory.com/10?category=919148) : 삽입정렬, 선택정렬, 병합정렬   
     - [탐색](https://junu0516.tistory.com/9?category=919148) : 선형탐색, 이분탐색   
-    - [트리와 이진검색트리(BST](https://junu0516.tistory.com/22?category=919148), [BST 구현](https://junu0516.tistory.com/23?category=919148)   
+    - [트리와 이진검색트리(BST)](https://junu0516.tistory.com/22?category=919148), [BST 구현](https://junu0516.tistory.com/23?category=919148)   
     - [너비우선탐색(BFS)](https://junu0516.tistory.com/26?category=919148)   
     - [트라이](https://junu0516.tistory.com/28?category=919148)
     

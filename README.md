@@ -15,6 +15,8 @@
 
    
 ## 3. Advanced Data Structure   
-너비우선탐색과 다익스트라 알고리즘을 적용하여, 지도상의 시작점과 도착점 사이의 최단거리 찾는 연습해보기
-
+너비우선탐색과 다익스트라 알고리즘을 적용하여, 지도상의 시작점과 도착점 사이의 최단거리 찾는 연습해보기   
+*    
+*   
+* [수업 수료증 보기](https://www.coursera.org/account/accomplishments/certificate/CQG3PU6753NC)
 

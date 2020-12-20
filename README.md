@@ -22,4 +22,10 @@
 * 과제 코드 공유   
 * [수업 수료증 보기](https://www.coursera.org/account/accomplishments/certificate/CQG3PU6753NC)   
 
+## 4. Web Applications for Everybody   
+- 
+- 과제 코드 공유
+   - PHP 활용 : [가위바위보 게임](https://github.com/junu0516/Coursera_Record/tree/main/RPS)
+   
+
 

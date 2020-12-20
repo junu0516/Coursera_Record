@@ -16,7 +16,7 @@
    
 ## 3. Advanced Data Structure   
 너비우선탐색과 다익스트라 알고리즘을 적용하여, 지도상의 시작점과 도착점 사이의 최단거리 찾는 연습해보기   
-*    
-*   
-* [수업 수료증 보기](https://www.coursera.org/account/accomplishments/certificate/CQG3PU6753NC)
+* 배운 개념 : 그래프 구현, 큐와 스택, BFS/DFS 차이, 다익스트라/에이스타 알고리즘, 여행하는 외판원 알고리즘, 브루트포스 & 그리디 알고리즘   
+* [수업 수료증 보기](https://www.coursera.org/account/accomplishments/certificate/CQG3PU6753NC)   
+
 

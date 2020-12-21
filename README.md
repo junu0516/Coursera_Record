@@ -24,9 +24,8 @@
 ## 3. Advanced Data Structure in Java
 - 배운 개념 : 
     - 문자열과 정규식    
-    - 그래프의 구현(리스트, 2차원배열)    
-    - 큐    
-    - 스택    
+    - [그래프의 구현(리스트, 2차원배열)](https://junu0516.tistory.com/52?category=919148)       
+    - [큐](https://junu0516.tistory.com/49?category=919148)와 [스택](https://junu0516.tistory.com/49?category=919148)   
     - BFS와 DFS    
     - 우선순위 큐    
     - 다익스트라 알고리즘    

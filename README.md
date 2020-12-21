@@ -22,7 +22,15 @@
 * BFS : [너비 우선 탐색 구현 연습](https://github.com/junu0516/-Coursera-Data_Structure/blob/main/BreadthFirstSearch/Structure.java)
    
 ## 3. Advanced Data Structure in Java
-* 배운 개념 : 그래프, 큐와 스택, BFS/DFS 차이, 다익스트라/에이스타 알고리즘, 여행하는 외판원 알고리즘, 브루트포스 & 그리디 알고리즘   
+- 배운 개념 : 
+    - 그래프의 구현(리스트, 2차원배열)    
+    - 큐    
+    - 스택    
+    - BFS와 DFS    
+    - 우선순위 큐    
+    - 다익스트라 알고리즘    
+    - 브루트포스, 그리디 알고리즘    
+    - 에이스타 알고리즘    
 * 과제 코드 공유   
 * [수업 수료증](https://www.coursera.org/account/accomplishments/certificate/CQG3PU6753NC)   
 

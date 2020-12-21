@@ -28,7 +28,7 @@
     - [큐](https://junu0516.tistory.com/49?category=919148)와 [스택](https://junu0516.tistory.com/49?category=919148)   
     - BFS와 DFS    
     - 우선순위 큐    
-    - 다익스트라 알고리즘    
+    - [다익스트라 알고리즘](https://junu0516.tistory.com/55)    
     - 브루트포스, 그리디 알고리즘    
     - 에이스타 알고리즘    
 - 과제 코드 공유   

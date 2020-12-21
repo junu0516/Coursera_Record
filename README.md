@@ -6,7 +6,7 @@
 
 ## 2. Data Structure and Performance   
 - 배운 개념 :   
-    - [LinkedList](https://junu0516.tistory.com/21?category=919148)   
+    - [Linked List](https://junu0516.tistory.com/21?category=919148)   
     - [시간복잡도](https://junu0516.tistory.com/17?category=919148)   
     - [정렬](https://junu0516.tistory.com/10?category=919148) : 삽입정렬, 선택정렬, 병합정렬   
     - [탐색](https://junu0516.tistory.com/9?category=919148) : 선형탐색, 이분탐색   

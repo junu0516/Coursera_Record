@@ -40,7 +40,7 @@
 - 새로 배운 개념 :   
     - PHP에서 $_GET, $_POST(GET, POST방식), [가위바위보 게임](https://github.com/junu0516/Coursera_Record/tree/main/RPS) 
     - PHP에서의 객체지향프로그래밍(자바와 거의 동일)   
-    - DB와 연동시 SQL Injection 방지하기
+    - [Code Injection](https://junu0516.tistory.com/74) 방지하기 
    
 
 

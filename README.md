@@ -33,6 +33,7 @@
     - 에이스타 알고리즘    
 - 과제 코드 공유   
     - 다익스트라, BFS, 에이스타 알고리즘을 각각 적용해서 지도에서 최단경로 표시하기
+    - [MapEdge.java](https://github.com/junu0516/Coursera_Record/blob/main/UCSDGraphs/src/roadgraph/MapEdge.java), [MapNode.java](https://github.com/junu0516/Coursera_Record/blob/main/UCSDGraphs/src/roadgraph/MapNode.java) : 지도의 각 intersection을 노드로, 노드를 잇는 도로를 엣지로 각각 구현
     - [MapGraph.java](https://github.com/junu0516/Coursera_Record/blob/main/UCSDGraphs/src/roadgraph/MapGraph.java) : bfs, 다익스트라, 에이스타 알고리즘 적용
 * [수업 수료증](https://www.coursera.org/account/accomplishments/certificate/CQG3PU6753NC)   
 

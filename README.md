@@ -22,7 +22,7 @@
 * BFS : [너비 우선 탐색 구현 연습](https://github.com/junu0516/-Coursera-Data_Structure/blob/main/BreadthFirstSearch/Structure.java)
    
 ## 3. Advanced Data Structure in Java
-- 배운 개념 : 
+- What I learned : 
     - 문자열과 정규식    
     - [그래프의 구현(리스트, 2차원배열)](https://junu0516.tistory.com/52?category=919148)       
     - [큐](https://junu0516.tistory.com/49?category=919148)와 [스택](https://junu0516.tistory.com/49?category=919148)   
@@ -39,7 +39,7 @@
 
 ## 4. Web Applications for Everybody   
 - 사용 언어 : PHP, mySQL, HTML, CSS, JavaScript  
-- 새로 배운 개념 :   
+- What I learned :   
     - PHP에서 $_GET, $_POST(GET, POST방식), [가위바위보 게임](https://github.com/junu0516/Coursera_Record/tree/main/RPS) 
     - PHP에서의 객체지향프로그래밍(자바와 거의 동일)   
     - [Code Injection](https://junu0516.tistory.com/74) 방지하기 

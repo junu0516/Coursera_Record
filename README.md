@@ -44,7 +44,7 @@
     - PHP에서의 객체지향프로그래밍(자바와 거의 동일), PHP 파일과 DB 연동하기(PDO 활용)   
     - [Code Injection](https://junu0516.tistory.com/74) 방지하기   
     - [쿠키](https://github.com/junu0516/Coursera_Record/blob/main/Building%20Database%20Applications%20in%20PHP/week%203%20assignment/sessions/cookie.php)와 [세션](https://github.com/junu0516/Coursera_Record/blob/main/Building%20Database%20Applications%20in%20PHP/week%203%20assignment/sessions/sessfun.php) 활용하기([내용정리](https://junu0516.tistory.com/75))   
-    - [PRG 패턴](https://junu0516.tistory.com/76?category=933252) 활용하기, [설명 정리](https://github.com/junu0516/Coursera_Record/tree/main/Building%20Database%20Applications%20in%20PHP/week%204%20assignment),  [PRG패턴을 적용한 CRUD 기능 구현]()
+    - [PRG 패턴](https://junu0516.tistory.com/76?category=933252) 활용하기, [설명 정리](https://github.com/junu0516/Coursera_Record/tree/main/Building%20Database%20Applications%20in%20PHP/week%204%20assignment),  [PRG패턴을 적용한 CRUD 기능 구현](https://github.com/junu0516/Coursera_Record/tree/main/Javascript%2C%20Jquery%20and%20Json)
    		
    
 

@@ -6,6 +6,6 @@
 
 ### Third Week   
 - 배운 개념 : 제이쿼리를 활용하여 이벤트 처리   
-    - [add.php](), [edit.php](), [view.php]() 파일에 position 테이블 정보 연동 추가   
+    - [add.php](https://github.com/junu0516/Coursera_Record/blob/main/Javascript%2C%20Jquery%20and%20Json/third%20week%20assignment/add.php), [edit.php](https://github.com/junu0516/Coursera_Record/blob/main/Javascript%2C%20Jquery%20and%20Json/third%20week%20assignment/edit.php), [view.php](https://github.com/junu0516/Coursera_Record/blob/main/Javascript%2C%20Jquery%20and%20Json/third%20week%20assignment/view.php) 파일에 position 테이블 정보 연동 추가   
     - add 버튼을 누르면 자동으로 position 정보 입력란이 생성되는 이벤트
  

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="UCSDUnfoldingMaps/src/|UCSDGraphs/src/|MOOCTextEditor/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="MOOCTextEditor/src"/>
+	<classpathentry kind="src" path="UCSDGraphs/src"/>
+	<classpathentry kind="src" path="UCSDUnfoldingMaps/src"/>
+	<classpathentry kind="output" path="MOOCTextEditor/bin"/>
+</classpath>
